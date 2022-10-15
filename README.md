@@ -7,14 +7,16 @@
 
 
 Description of the program 
-1: effects in infinity 
-2: Create folder in infinity
 
-I am not responsible of the use you will make :)
+`1: effects in infinity `
+
+`2: Create folder in infinity`
+
+
 
 
 # Video
 https://user-images.githubusercontent.com/103877241/196007544-59cb3351-c4ba-4ffa-b50e-5aaf71419665.mp4
 
 
-I am not responsible of the use you will make :)
+`I am not responsible of the use you will make :)`
