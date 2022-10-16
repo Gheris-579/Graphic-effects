@@ -15,8 +15,5 @@ Description of the program
 
 
 
-# Video
-https://user-images.githubusercontent.com/103877241/196007544-59cb3351-c4ba-4ffa-b50e-5aaf71419665.mp4
-
 
 `I am not responsible of the use you will make :)`
